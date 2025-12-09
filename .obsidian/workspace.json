@@ -25,10 +25,14 @@
             "id": "d273d225f056caf3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ],
@@ -202,11 +206,12 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -224,11 +229,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d273d225f056caf3",
+  "active": "4dae71c85c568d77",
   "lastOpenFiles": [
+    "Untitled.md",
     "ZbootStrap/02 APPLIED PRACTICE.map.md",
     "ZbootStrap/02 APPLIED PRACTICE.md",
-    "Untitled.md",
     "ZbootStrap/02 APPLIED PRACTICE/2.1 Code Examples/Grid & layout basics.md",
     "Untitled 1.md",
     "ZbootStrap/02 APPLIED PRACTICE/2.1 Code Examples",
