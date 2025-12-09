@@ -1,3 +1,43 @@
+---
+title: Basic SEO Setup & Performance Optimization
+type: studymap
+category: wordpress-professional-build
+status: complete
+stage: optimization
+priority: high
+version: 1
+owner: Avijit Sarkar
+deliverables:
+  - Technical SEO setup (robots.txt, sitemap, schema, canonical)
+  - On-page SEO structure (headings, metadata, internal linking)
+  - Image & asset optimization (WebP, compression, lazyload)
+  - Core Web Vitals improvements (LCP, CLS, INP)
+  - Caching & CDN configuration
+  - GA4 & Search Console tracking setup
+requirements:
+  - Keyword strategy & content plan
+  - Analytics + Search Console access
+  - Hosting performance baseline report
+next-action:
+due:
+tags:
+  - seo
+  - performance
+  - core-web-vitals
+  - optimization
+  - ranking
+  - caching
+created: 2025-12-09T09:47:00
+updated: 2025-12-09
+summary: Technical and on-page SEO foundations combined with performance optimization for faster loading, higher rankings, and better user experience.
+related:
+  - Forms & CRM Integrations
+  - Security & Deployment Setup
+  - Essential Pages Setup
+links:
+resources:
+---
+
 
 > [!quote] **Lord Krishna** (Spiritual Teacher, Mathura, c. 3228 BCE)  
 > **Teaching discipline, clarity, and mastery through steady effort**

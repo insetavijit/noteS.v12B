@@ -1,3 +1,41 @@
+---
+title: Custom Theme or Child-Theme Development
+type: studymap
+category: wordpress-professional-build
+status: complete
+stage: foundations
+priority: high
+version: 1
+owner: Avijit Sarkar
+deliverables:
+  - Child theme starter (style.css + functions.php)
+  - Custom theme architecture with template hierarchy
+  - Header/Footer & template parts system
+  - CPT (Custom Post Type) & taxonomy structure
+  - Block theme / theme.json configuration
+requirements:
+  - Hosting environment & WP installed
+  - Parent theme (if using child theme)
+  - Design layout or Figma structure
+next-action:
+due:
+tags:
+  - wordpress
+  - theme-development
+  - child-theme
+  - template-hierarchy
+  - hooks
+created: 2025-12-09T09:45:00
+updated: 2025-12-09
+summary: Engineering approach for scalable WordPress theme development using template hierarchy, hooks, and modular architecture.
+related:
+  - Custom UI-UX Design & Responsive Layouts
+  - Page Builder vs Gutenberg Configuration
+  - Security & Deployment Setup
+links:
+resources:
+---
+
 
 > [!quote] **Lord Krishna** (Spiritual Teacher, Mathura, c. 3228 BCE)  
 > **Guiding Arjuna to master discipline, structure, and inner control**

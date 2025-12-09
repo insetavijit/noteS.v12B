@@ -1,13 +1,4 @@
-Perfect Boss — moving to **Service #2: WordPress Maintenance & Care Plans**  
-Using the **same Research Framework**.
-
----
-
-# 🛠 **Research Analysis — WordPress Maintenance & Care Plans**
-
----
-
-## **1. What It Includes (Deliverables)**
+## **[[@Deliverables 02]]**
 
 - Core, theme & plugin updates (tested safely)
     

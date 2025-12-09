@@ -1,3 +1,41 @@
+---
+title: Essential Pages Setup (Home, About, Services, Blog, Contact, Legal)
+type: studymap
+category: wordpress-professional-build
+status: complete
+stage: architecture
+priority: high
+version: 1
+owner: Avijit Sarkar
+deliverables:
+  - Wireframes for all essential pages
+  - Content structure & hierarchy map
+  - Template setup (Home, About, Services, Blog, Contact, Legal)
+  - Reusable section components (hero, features, testimonials, CTA, FAQ)
+  - SEO-ready headings & metadata planning
+requirements:
+  - Sitemap outline & brand messaging
+  - User persona & journey mapping
+  - Design direction or UI reference
+next-action:
+due:
+tags:
+  - wordpress
+  - pages
+  - wireframe
+  - content-strategy
+  - conversion-design
+created: 2025-12-09T09:45:00
+updated: 2025-12-09
+summary: Strategic setup of core pages for conversion-focused, structured, and user-driven WordPress websites.
+related:
+  - Custom UI-UX Design & Responsive Layouts
+  - Forms & CRM Integrations
+  - Basic SEO & Performance Optimization
+links:
+resources:
+---
+
 > [!quote] **Lord Krishna** (Spiritual Teacher, Mathura, c. 3228 BCE)  
 > **Teaching clarity, purpose, and alignment toward meaningful action**
 > 

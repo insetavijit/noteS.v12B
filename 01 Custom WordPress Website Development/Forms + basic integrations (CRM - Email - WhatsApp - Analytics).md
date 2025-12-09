@@ -1,3 +1,43 @@
+---
+title: Forms + Basic Integrations (CRM — Email — WhatsApp — Analytics)
+type: studymap
+category: wordpress-professional-build
+status: complete
+stage: implementation
+priority: high
+version: 1
+owner: Avijit Sarkar
+deliverables:
+  - Form system (Contact / Quote / Booking)
+  - CRM integration pipeline (HubSpot / Zoho / Brevo / Pipedrive)
+  - Email automation & autoresponder setup
+  - WhatsApp click-to-chat & API connection
+  - GA4 tracking events & conversion analytics
+requirements:
+  - Domain email / SMTP configuration
+  - CRM account setup & workflow mapping
+  - WhatsApp business or API key
+  - Google Analytics & Search Console access
+next-action:
+due:
+tags:
+  - forms
+  - crm
+  - email-marketing
+  - whatsapp
+  - analytics
+  - automation
+created: 2025-12-09T09:47:00
+updated: 2025-12-09
+summary: Implementation of connected form workflows with CRM, email automation, WhatsApp integration, and analytics-driven conversion tracking.
+related:
+  - Essential Pages Setup
+  - Basic SEO & Performance Optimization
+  - Documentation + Training + Support
+links:
+resources:
+---
+
 
 > [!quote] **Lord Krishna** (Spiritual Teacher, Mathura, c. 3228 BCE)  
 > **Teaching alignment of intention and execution**

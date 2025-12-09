@@ -1,3 +1,42 @@
+---
+title: Page Builder OR Gutenberg Configuration
+type: studymap
+category: wordpress-professional-build
+status: complete
+stage: foundations
+priority: high
+version: 1
+owner: Avijit Sarkar
+deliverables:
+  - Gutenberg configuration (theme.json, blocks, patterns)
+  - Page builder global styling (colors, typography, spacing)
+  - Template system setup (header, footer, single, archive)
+  - Reusable layout patterns/components
+  - Performance & editor experience comparison
+requirements:
+  - Project design system & style guide
+  - Page structure & sitemap
+  - Tool selection based on performance & use case
+next-action:
+due:
+tags:
+  - wordpress
+  - gutenberg
+  - page-builder
+  - elementor
+  - bricks
+  - theme-json
+created: 2025-12-09T09:46:00
+updated: 2025-12-09
+summary: Strategic selection and configuration of Gutenberg or Page Builder based on performance, design requirements, and client usability.
+related:
+  - Custom UI-UX Design & Responsive Layouts
+  - Essential Pages Setup
+  - Forms & CRM Integrations
+links:
+resources:
+---
+
 
 > [!quote] **Lord Krishna** (Spiritual Teacher, Mathura, c. 3228 BCE)  
 > **Guiding Arjuna to choose wisely with clarity and self-awareness**
