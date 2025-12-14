@@ -8,63 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e975b5f5c71b7cfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "delivariables/10 Broken links scan and fix.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10 Broken links scan and fix"
-            }
-          },
-          {
-            "id": "80ee785d93fb6ed1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "delivariables/11 Optional - Staging environment for safe update testing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11 Optional - Staging environment for safe update testing"
-            }
-          },
-          {
-            "id": "72795f198c92a3c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 WordPress Maintenance & Care Plans.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01 WordPress Maintenance & Care Plans"
-            }
-          },
-          {
             "id": "93a2c0cb0d9c0256",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 Database cleanup & optimization/09 Database Cleanup & Optimization.md",
+                "file": "06 Performance Monitoring & Optimization Checks/06 Performance Monitoring & Optimization Checks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09 Database Cleanup & Optimization"
+              "title": "06 Performance Monitoring & Optimization Checks"
+            }
+          },
+          {
+            "id": "54ddabf563ea17ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Simple Task List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Simple Task List"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 WordPress Maintenance & Care Plans.md",
+                "file": "Simple Task List.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01 WordPress Maintenance & Care Plans"
+              "title": "Outline of Simple Task List"
             }
           }
         ]
@@ -257,24 +229,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04677682336db9d2",
+  "active": "54ddabf563ea17ef",
   "lastOpenFiles": [
-    "2 Storage in Multiple Locations.md",
-    "01 WordPress Maintenance & Care Plans.md",
-    "09 Database cleanup & optimization/09 Database Cleanup & Optimization.md",
+    "01 Safe Update Workflow/@ overview - Core, theme & plugin updates.md",
+    "Simple Task List.md",
     "11 Optional - Staging environment for safe update testing/11 Staging Environment for Safe Testing.md",
     "10 Broken links scan and fix/10 Broken Links Scan & Fix.md",
+    "09 Database cleanup & optimization/09 Database Cleanup & Optimization.md",
     "08 Monthly reporting (uptime, speed, issues, tasks performed)/08 Monthly Maintenance & Performance Reporting.md",
-    "07 Small development fixes or task hours per month/07 Small Development Fixes - Task Hours Per Month.md",
     "06 Performance Monitoring & Optimization Checks/06 Performance Monitoring & Optimization Checks.md",
-    "05 Priority Email/05 Priority Email - WhatsApp Support & Ticketing.md",
+    "07 Small development fixes or task hours per month/07 Small Development Fixes - Task Hours Per Month.md",
     "04 Uptime Monitoring & Emergency Response/04 Uptime Monitoring & Emergency Response.md",
+    "05 Priority Email/05 Priority Email - WhatsApp Support & Ticketing.md",
     "03 Security monitoring & malware scans/03 map.Security monitoring & malware scans.md",
     "02 Daily-weekly automated full backups + restore capability/@map.Daily–Weekly Automated Full Backups.md",
-    "01 Safe Update Workflow/@ overview - Core, theme & plugin updates.md",
+    "01 WordPress Maintenance & Care Plans.md",
     "delivariables/11 Optional - Staging environment for safe update testing.md",
-    "11 Optional - Staging environment for safe update testing",
     "delivariables/10 Broken links scan and fix.md",
+    "2 Storage in Multiple Locations.md",
+    "11 Optional - Staging environment for safe update testing",
     "10 Broken links scan and fix",
     "delivariables/09 Database cleanup & optimization.md",
     "09 Database cleanup & optimization",
@@ -293,7 +266,6 @@
     "03 Security monitoring & malware scans",
     "02 Daily-weekly automated full backups + restore capability/1. Automated backup frequency.md",
     "delivariables/02 Daily-weekly automated full backups + restore capability.md",
-    "01 Safe Update Workflow/Apply updates in staging.md",
     "02 Daily-weekly automated full backups + restore capability",
     "Untitled.canvas"
   ]
