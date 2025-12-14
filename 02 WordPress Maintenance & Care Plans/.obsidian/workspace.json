@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09 Database Cleanup & Optimization.md",
+                "file": "09 Database cleanup & optimization/09 Database Cleanup & Optimization.md",
                 "mode": "source",
                 "source": false
               },
@@ -257,11 +257,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72795f198c92a3c1",
+  "active": "04677682336db9d2",
   "lastOpenFiles": [
     "2 Storage in Multiple Locations.md",
     "01 WordPress Maintenance & Care Plans.md",
-    "09 Database Cleanup & Optimization.md",
+    "09 Database cleanup & optimization/09 Database Cleanup & Optimization.md",
     "11 Optional - Staging environment for safe update testing/11 Staging Environment for Safe Testing.md",
     "10 Broken links scan and fix/10 Broken Links Scan & Fix.md",
     "08 Monthly reporting (uptime, speed, issues, tasks performed)/08 Monthly Maintenance & Performance Reporting.md",
