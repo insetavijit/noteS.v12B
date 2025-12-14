@@ -1,10 +1,3 @@
-Absolutely Boss — continuing to the **next module** in the Maintenance Service document:
-
-### **Daily/Weekly Automated Full Backups + Restore Capability**
-
-with a **new Gita quote** and full structured format.
-
----
 
 > [!quote] **Lord Krishna** (Spiritual Teacher, Mathura, c. 3228 BCE)  
 > **Teaching preparation, protection, and readiness before challenges arise**
@@ -28,14 +21,14 @@ Backups are useless **until they are restore-tested**.
 
 ## 💾 **Backup Strategy: Professional Workflow**
 
-|Step|Action|
-|---|---|
-|**1. Automated backup frequency**|Daily full backups + weekly off-site archive|
-|**2. Storage in multiple locations**|Local server + remote cloud + optional S3|
-|**3. Backup components**|Database + files + uploads + config|
-|**4. Version retention strategy**|Keep last 30 days history + 3 full monthly copies|
-|**5. Restore testing schedule**|Monthly restore verification|
-|**6. Manual snapshot before major changes**|Deployments, migrations, redesign|
+| Step                                            | Action                                            |
+| :---------------------------------------------- | ------------------------------------------------- |
+| **[[1. Automated backup frequency]]**           | Daily full backups + weekly off-site archive      |
+| **[[2. Storage in multiple locations]]**        | Local server + remote cloud + optional S3         |
+| **[[3. Backup components]]**                    | Database + files + uploads + config               |
+| **[[4. Version Retention Strategy]]**           | Keep last 30 days history + 3 full monthly copies |
+| **[[5. Restore Testing Schedule]]**             | Monthly restore verification                      |
+| **[[6. Manual Snapshot Before Major Changes]]** | Deployments, migrations, redesign                 |
 
 ---
 

@@ -6,11 +6,11 @@
     
 - [[03 Security monitoring & malware scans]]
     
-- [[04 Uptime monitoring & emergency response]]
+- [[delivariables/04 Uptime monitoring & emergency response]]
     
-- [[06 Performance monitoring & optimization checks]]
+- [[delivariables/06 Performance monitoring & optimization checks]]
     
-- [[09 Database cleanup & optimization]]
+- [[delivariables/09 Database cleanup & optimization]]
     
 - [[10 Broken links scan and fix]]
     
