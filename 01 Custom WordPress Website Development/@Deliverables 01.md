@@ -1,17 +1,17 @@
-- [[Custom UI-UX design & responsive layouts]]
+- [[01 Custom UI-UX design & responsive layouts]]
     
-- [[Custom theme or child-theme development]]
+- [[02 Custom theme or child-theme development]]
     
-- [[Essential pages setup (Home, About, Services, Blog, Contact, Legal)]]
+- [[03 Essential pages setup (Home, About, Services, Blog, Contact, Legal)]]
     
-- [[Page builder OR Gutenberg configuration]]
+- [[04 Page builder OR Gutenberg configuration]]
     
-- [[Forms + basic integrations (CRM - Email - WhatsApp - Analytics)]]
+- [[05 Forms + basic integrations (CRM - Email - WhatsApp - Analytics)]]
     
-- [[Basic SEO setup & performance optimization]]
+- [[06 Basic SEO setup & performance optimization]]
     
-- [[Security & deployment setup]]
+- [[07 Security & deployment setup]]
     
-- [[Documentation + training + post-launch support]]
+- [[08 Documentation + training + post-launch support]]
 
 ---

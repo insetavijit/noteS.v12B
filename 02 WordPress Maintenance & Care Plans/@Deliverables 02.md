@@ -1,20 +1,20 @@
-- [[Core, theme & plugin updates (tested safely)]]
+- [[01 Core, theme & plugin updates (tested safely)]]
     
-- [[Daily-weekly automated full backups + restore capability]]
+- [[02 Daily-weekly automated full backups + restore capability]]
     
-- [[Security monitoring & malware scans]]
+- [[03 Security monitoring & malware scans]]
     
-- [[Uptime monitoring & emergency response]]
+- [[04 Uptime monitoring & emergency response]]
     
-- [[Performance monitoring & optimization checks]]
+- [[06 Performance monitoring & optimization checks]]
     
-- [[Database cleanup & optimization]]
+- [[09 Database cleanup & optimization]]
     
-- [[Broken links scan and fix]]
+- [[10 Broken links scan and fix]]
     
-- [[Small development fixes or task hours per month]]
+- [[07 Small development fixes or task hours per month]]
     
-- [[Email-WhatsApp priority support & ticketing]]
+- [[05 Email-WhatsApp priority support & ticketing]]
     
-- [[Monthly reporting (uptime, speed, issues, tasks performed)]]
-- [[Optional - Staging environment for safe update testing]]
+- [[08 Monthly reporting (uptime, speed, issues, tasks performed)]]
+- [[11 Optional - Staging environment for safe update testing]]
