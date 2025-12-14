@@ -1,14 +1,14 @@
-### **[[1. Automated Backup Frequency]]**
+### **[[1. Automated backup frequency]]**
 ```
 Define backup schedule · Configure daily full backups · Configure weekly archive snapshot · Enable automation · Monitor scheduled execution · Review backup logs · Configure failure alerting · Resolve failed or skipped runs · Record backup frequency policy
 ```
 
-### **[[2. Storage in Multiple Locations]]**
+### **[[2. Storage in multiple locations]]**
 ```
 Identify primary storage · Configure secondary remote storage · Validate remote transfer success · Ensure provider and region independence · Verify access credentials · Check storage capacity · Confirm 3-2-1 compliance · Record storage paths
 ```
 
-### **[[3. Backup Components]]**
+### **[[3. Backup components]]**
 ```
 Confirm database included · Confirm core files included · Confirm themes included · Confirm plugins included · Confirm uploads/media included · Include configuration files · Validate backup size consistency · Flag incomplete backups
 ```

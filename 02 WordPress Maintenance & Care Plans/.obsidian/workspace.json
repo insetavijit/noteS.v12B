@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Performance Monitoring & Optimization Checks/06 Performance Monitoring & Optimization Checks.md",
-                "mode": "source",
+                "file": "Summerys/Simple Task List.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 Performance Monitoring & Optimization Checks"
+              "title": "Simple Task List"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Simple Task List.md",
+                "file": "Summerys/@Deliverables 02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Simple Task List"
+              "title": "@Deliverables 02"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Simple Task List.md",
+                "file": "Summerys/Simple Task List.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -229,44 +228,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54ddabf563ea17ef",
+  "active": "93a2c0cb0d9c0256",
   "lastOpenFiles": [
-    "01 Safe Update Workflow/@ overview - Core, theme & plugin updates.md",
-    "Simple Task List.md",
-    "11 Optional - Staging environment for safe update testing/11 Staging Environment for Safe Testing.md",
-    "10 Broken links scan and fix/10 Broken Links Scan & Fix.md",
-    "09 Database cleanup & optimization/09 Database Cleanup & Optimization.md",
-    "08 Monthly reporting (uptime, speed, issues, tasks performed)/08 Monthly Maintenance & Performance Reporting.md",
-    "06 Performance Monitoring & Optimization Checks/06 Performance Monitoring & Optimization Checks.md",
-    "07 Small development fixes or task hours per month/07 Small Development Fixes - Task Hours Per Month.md",
-    "04 Uptime Monitoring & Emergency Response/04 Uptime Monitoring & Emergency Response.md",
-    "05 Priority Email/05 Priority Email - WhatsApp Support & Ticketing.md",
-    "03 Security monitoring & malware scans/03 map.Security monitoring & malware scans.md",
-    "02 Daily-weekly automated full backups + restore capability/@map.Daily–Weekly Automated Full Backups.md",
+    "@Deliveriables/01 Safe Update Workflow/@ overview - Core, theme & plugin updates.md",
+    "@Deliveriables/02 Daily-weekly automated full backups + restore capability/@map.Daily–Weekly Automated Full Backups.md",
+    "Summerys/Simple Task List.md",
+    "@Deliveriables/11 Optional - Staging environment for safe update testing/11 Staging Environment for Safe Testing.md",
+    "delivariables/06 Performance monitoring & optimization checks.md",
+    "delivariables/05 Email-WhatsApp priority support & ticketing.md",
+    "Summerys/@Deliverables 02.md",
+    "@Deliveriables/06 Performance Monitoring & Optimization Checks/06 Performance Monitoring & Optimization Checks.md",
+    "delivariables/04 Uptime monitoring & emergency response.md",
+    "delivariables/01 Core, theme & plugin updates (tested safely).md",
+    "Summerys",
+    "@Deliveriables",
+    "@Deliveriables/10 Broken links scan and fix/10 Broken Links Scan & Fix.md",
+    "@Deliveriables/09 Database cleanup & optimization/09 Database Cleanup & Optimization.md",
+    "@Deliveriables/08 Monthly reporting (uptime, speed, issues, tasks performed)/08 Monthly Maintenance & Performance Reporting.md",
+    "@Deliveriables/07 Small development fixes or task hours per month/07 Small Development Fixes - Task Hours Per Month.md",
+    "@Deliveriables/04 Uptime Monitoring & Emergency Response/04 Uptime Monitoring & Emergency Response.md",
+    "@Deliveriables/05 Priority Email/05 Priority Email - WhatsApp Support & Ticketing.md",
+    "@Deliveriables/03 Security monitoring & malware scans/03 map.Security monitoring & malware scans.md",
     "01 WordPress Maintenance & Care Plans.md",
     "delivariables/11 Optional - Staging environment for safe update testing.md",
     "delivariables/10 Broken links scan and fix.md",
     "2 Storage in Multiple Locations.md",
-    "11 Optional - Staging environment for safe update testing",
-    "10 Broken links scan and fix",
+    "@Deliveriables/11 Optional - Staging environment for safe update testing",
+    "@Deliveriables/10 Broken links scan and fix",
     "delivariables/09 Database cleanup & optimization.md",
-    "09 Database cleanup & optimization",
+    "@Deliveriables/09 Database cleanup & optimization",
     "delivariables/08 Monthly reporting (uptime, speed, issues, tasks performed).md",
-    "08 Monthly reporting (uptime, speed, issues, tasks performed)",
+    "@Deliveriables/08 Monthly reporting (uptime, speed, issues, tasks performed)",
     "delivariables/07 Small development fixes or task hours per month.md",
-    "07 Small development fixes or task hours per month",
-    "06 Performance Monitoring & Optimization Checks",
-    "delivariables/06 Performance monitoring & optimization checks.md",
-    "05 Priority Email",
-    "delivariables/04 Uptime monitoring & emergency response.md",
+    "@Deliveriables/07 Small development fixes or task hours per month",
+    "@Deliveriables/06 Performance Monitoring & Optimization Checks",
+    "@Deliveriables/05 Priority Email",
     "delivariables/03 Security monitoring & malware scans.md",
-    "delivariables/05 Email-WhatsApp priority support & ticketing.md",
-    "04 Uptime Monitoring & Emergency Response",
-    "@Deliverables 02.md",
-    "03 Security monitoring & malware scans",
-    "02 Daily-weekly automated full backups + restore capability/1. Automated backup frequency.md",
-    "delivariables/02 Daily-weekly automated full backups + restore capability.md",
-    "02 Daily-weekly automated full backups + restore capability",
+    "@Deliveriables/04 Uptime Monitoring & Emergency Response",
+    "@Deliveriables/02 Daily-weekly automated full backups + restore capability/1. Automated backup frequency.md",
     "Untitled.canvas"
   ]
 }
