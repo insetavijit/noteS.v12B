@@ -46,23 +46,23 @@ A backup is only considered valid if it can **immediately restore the site** to 
     
 9. **Audit relentlessly** — Log backup status, scope, timing, and restore readiness for accountability.
 
-| #   | **Step Name**                               | **Step Actions / Checklist**                                                                        |
-| --- | ------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| 1   | **[[Confirm Approved Backup Method]]**      | Verify authorized backup tool → Hosting panel **or** approved plugin → No mixed methods             |
-| 2   | **[[Verify Backup Schedule & Retention]]**  | Confirm daily/weekly run → Check retention window → Ensure backups are not auto-deleted prematurely |
-| 3   | **[[Stabilize Site State]]**                | Pause auto-updates → Avoid content or configuration changes during backup window                    |
-| 4   | **Initiate Full Backup (If Required)**      | Trigger on-demand backup → Ensure **files + database** options are enabled                          |
-| 5   | **Monitor Backup Execution**                | Observe progress in real time → Watch for errors, pauses, or timeouts                               |
-| 6   | **Confirm Successful Completion**           | Verify status = **Completed / Successful** → Reject partial or in-progress runs                     |
-| 7   | **Verify File Coverage**                    | Confirm inclusion of core files → themes → plugins → uploads → custom/MU plugins                    |
-| 8   | **Verify Database Coverage**                | Confirm database dump exists → Validate correct DB name and table prefixes                          |
-| 9   | **Validate Backup Freshness**               | Confirm backup completed recently → Ensure relevance to upcoming operations                         |
-| 10  | **Perform Backup Size Sanity Check**        | Compare archive size vs site scale → Flag abnormal size deviations                                  |
-| 11  | **Confirm Restore Capability**              | Locate restore action → Ensure full site restore (files + DB) is supported                          |
-| 12  | **Perform Restore Proof (Non-Destructive)** | Start download **or** reach restore confirmation screen without executing                           |
-| 13  | **Verify Storage & Redundancy**             | Confirm backup stored securely → Off-site or secondary copy available                               |
-| 14  | **Reject Invalid Backups**                  | Disqualify files-only, DB-only, expired, corrupted, or download-only backups                        |
-| 15  | **Approve Backup for Rollback**             | Mark backup as restore-ready → Clear for maintenance operations                                     |
-| 16  | **Record Backup Audit Log**                 | Log date/time → method → scope → restore readiness → operator initials                              |
+| #   | **Step Name**                                   | **Step Actions / Checklist**                                                                        |
+| --- | ----------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| 1   | **[[Confirm Approved Backup Method]]**          | Verify authorized backup tool → Hosting panel **or** approved plugin → No mixed methods             |
+| 2   | **[[Verify Backup Schedule & Retention]]**      | Confirm daily/weekly run → Check retention window → Ensure backups are not auto-deleted prematurely |
+| 3   | **[[Stabilize Site State (act)]]**                    | Pause auto-updates → Avoid content or configuration changes during backup window                    |
+| 4   | **[[Initiate Full Backup (If Required)]]**      | Trigger on-demand backup → Ensure **files + database** options are enabled                          |
+| 5   | **[[Monitor Backup Execution]]**                | Observe progress in real time → Watch for errors, pauses, or timeouts                               |
+| 6   | **[[Confirm Successful Completion]]**           | Verify status = **Completed / Successful** → Reject partial or in-progress runs                     |
+| 7   | **[[Verify File Coverage]]**                    | Confirm inclusion of core files → themes → plugins → uploads → custom/MU plugins                    |
+| 8   | **[[Verify Database Coverage]]**                | Confirm database dump exists → Validate correct DB name and table prefixes                          |
+| 9   | **[[Validate Backup Freshness]]**               | Confirm backup completed recently → Ensure relevance to upcoming operations                         |
+| 10  | **[[Perform Backup Size Sanity Check]]**        | Compare archive size vs site scale → Flag abnormal size deviations                                  |
+| 11  | **[[Confirm Restore Capability]]**              | Locate restore action → Ensure full site restore (files + DB) is supported                          |
+| 12  | **[[Perform Restore Proof (Non-Destructive)]]** | Start download **or** reach restore confirmation screen without executing                           |
+| 13  | **[[Verify Storage & Redundancy]]**             | Confirm backup stored securely → Off-site or secondary copy available                               |
+| 14  | **[[Reject Invalid Backups]]**                  | Disqualify files-only, DB-only, expired, corrupted, or download-only backups                        |
+| 15  | **[[Approve Backup for Rollback]]**             | Mark backup as restore-ready → Clear for maintenance operations                                     |
+| 16  | **[[Record Backup Audit Log]]**                 | Log date/time → method → scope → restore readiness → operator initials                              |
 
 ---
