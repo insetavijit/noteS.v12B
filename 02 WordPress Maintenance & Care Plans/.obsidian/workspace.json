@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 WordPress Maintenance & Care Plans.v2.md",
+                "file": "Stabilize Site State.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 WordPress Maintenance & Care Plans.v2"
+              "title": "Stabilize Site State"
             }
           },
           {
@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Verify backup.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -243,12 +243,19 @@
   },
   "active": "93a2c0cb0d9c0256",
   "lastOpenFiles": [
+    "Automated Full Backups.md",
+    "Stabilize Site State.md",
+    "Verify Backup Schedule & Retention.md",
+    "Confirm Approved Backup Method.md",
     "Verify backup.md",
+    "@Core, Theme & Plugin Updates.md",
+    "01 WordPress Maintenance & Care Plans.v2.md",
+    "archive/Gigs/THE GIG.md",
+    "archive/Gigs/Fiverr-Optimized Package Comparison (Final).md",
+    "archive/Gigs/FIVERR_LAUNCH_CHECKLIST.md",
     "Enterprise-Level MySQL WordPress Database Backup Methods (2025).md",
     "MySQL WordPress Database Backup.md",
     "Untitled.md",
-    "01 WordPress Maintenance & Care Plans.v2.md",
-    "@Core, Theme & Plugin Updates.md",
     "Confirm restore option available.md",
     "Verify timestamp is pre-update.md",
     "Confirm files + DB included.md",
@@ -266,14 +273,7 @@
     "archive/@Deliveriables/02 Daily-weekly automated full backups + restore capability/1 supl.Automated Backup Frequency.md",
     "archive/@Deliveriables/02 Daily-weekly automated full backups + restore capability/1. Automated backup frequency.md",
     "archive/Summerys/@Deliverables 02.md",
-    "archive/@Deliveriables/01 Safe Update Workflow/@ overview - Core, theme & plugin updates.md",
-    "archive/delivariables/01 Core, theme & plugin updates (tested safely).md",
     "archive/ZZ",
-    "archive/Summerys/Simple Task List.md",
-    "archive/@Deliveriables/01 Safe Update Workflow/Apply updates in staging.md",
-    "archive/@Deliveriables/11 Optional - Staging environment for safe update testing/11 Staging Environment for Safe Testing.md",
-    "archive/delivariables/06 Performance monitoring & optimization checks.md",
-    "archive/delivariables/05 Email-WhatsApp priority support & ticketing.md",
     "archive/Summerys",
     "archive/@Deliveriables",
     "archive/@Deliveriables/11 Optional - Staging environment for safe update testing",

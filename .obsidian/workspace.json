@@ -25,14 +25,10 @@
             "id": "861606513f814308",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 WordPress Maintenance & Care Plans/01A - Safe Update Workflow/@ overview - Core, theme & plugin updates.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "@ overview - Core, theme & plugin updates"
+              "title": "New tab"
             }
           },
           {
@@ -139,7 +135,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 WordPress Maintenance & Care Plans/01A - Safe Update Workflow/@ overview - Core, theme & plugin updates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for @ overview - Core, theme & plugin updates"
+              "title": "Backlinks"
             }
           }
         ],
