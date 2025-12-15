@@ -45,6 +45,18 @@ A backup is only considered valid if it can **immediately restore the site** to 
 8. **Maintain redundancy** — Backups should exist in secure storage with appropriate retention and off-site protection.
     
 9. **Audit relentlessly** — Log backup status, scope, timing, and restore readiness for accountability.
+---
+
+| **Task**                            | **Brief**                                                                                                                                                                                                                  |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[Verify backup schedule]]**      | Confirm that an active, reliable backup schedule exists (daily or weekly as required) with sufficient retention to preserve multiple restore points; scheduled backups must not silently fail or overwrite usable backups. |
+| **[[Trigger on-demand backup]]**    | Initiate a fresh full backup when the latest scheduled backup is outdated, unverified, or contextually unsafe for upcoming operations, ensuring the snapshot reflects the current site state.                              |
+| **[[Confirm files + DB included]]** | Verify that the backup contains **all WordPress files** (core, themes, plugins, uploads, custom directories) and the **entire database**; partial backups are invalid.                                                     |
+| **[[Verify integrity]]**            | Validate that the backup completed successfully, artifacts are accessible, and no errors, corruption indicators, or missing components are present.                                                                        |
+| **[[Confirm restore path]]**        | Ensure a clear, executable restore method exists (one-click restore, restore-to-staging, or guided manual recovery) with current permissions.                                                                              |
+| **[[Log backup status]]**           | Record backup date/time, method, scope, integrity status, restore readiness, and operator confirmation to maintain traceability and accountability.                                                                        |
+
+---
 
 | #   | **Step Name**                                   | **Step Actions / Checklist**                                                                        |
 | --- | ----------------------------------------------- | --------------------------------------------------------------------------------------------------- |

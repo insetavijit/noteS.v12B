@@ -47,7 +47,7 @@ Updates are not a button — they are a **controlled, accountable workflow**.
 
 | **Step** | **Step Name**              | **Micro-Task Chain (Execution Order)**                                                                                       |
 | -------- | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 1        | [[Verify Backup]]          | Check latest backup exists → Confirm files + DB included → Verify timestamp is pre-update → Confirm restore option available |
+| 1        | [[Verify backup]]          | Check latest backup exists → Confirm files + DB included → Verify timestamp is pre-update → Confirm restore option available |
 | 2        | Review Changelogs          | Open official release notes → Identify breaking changes → Note security fixes → Flag high-risk updates                       |
 | 3        | Confirm Compatibility      | Check WordPress version → Check PHP version → Review plugin/theme compatibility notes → Identify conflicts                   |
 | 4        | Prepare Update Environment | Disable auto-updates → Pause site changes → Ensure staging availability (if any)                                             |
