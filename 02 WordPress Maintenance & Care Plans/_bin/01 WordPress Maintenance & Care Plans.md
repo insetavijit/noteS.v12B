@@ -1,3 +1,4 @@
+01 WordPress Maintenance & Care Plans
 ## **[[@Deliverables 02]]**
 
 - [[01 Core, theme & plugin updates (tested safely)]]
@@ -6,11 +7,11 @@
     
 - [[03 Security monitoring & malware scans]]
     
-- [[delivariables/04 Uptime monitoring & emergency response]]
+- [[archive/delivariables/04 Uptime monitoring & emergency response]]
     
-- [[delivariables/06 Performance monitoring & optimization checks]]
+- [[archive/delivariables/06 Performance monitoring & optimization checks]]
     
-- [[delivariables/09 Database cleanup & optimization]]
+- [[archive/delivariables/09 Database cleanup & optimization]]
     
 - [[10 Broken links scan and fix]]
     
