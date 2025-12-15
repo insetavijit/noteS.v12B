@@ -45,24 +45,24 @@ _(Core — Theme — Plugin Updates with Testing, Validation & Rollback Strategy
 
 Updates are not a button — they are a **controlled, accountable workflow**.
 
-| **Step** | **Step Name**              | **Micro-Task Chain (Execution Order)**                                                                                                           |
-| -------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1        | [[Verify Backup]]          | [[Check latest backup exists]] → [[Confirm files + DB included]] → [[Verify timestamp is pre-update]] → [[Confirm restore option available]] |
-| 2        | Review Changelogs          | Open official release notes → Identify breaking changes → Note security fixes → Flag high-risk updates                                           |
-| 3        | Confirm Compatibility      | Check WordPress version → Check PHP version → Review plugin/theme compatibility notes → Identify conflicts                                       |
-| 4        | Prepare Update Environment | Disable auto-updates → Pause site changes → Ensure staging availability (if any)                                                                 |
-| 5        | Run Plugin Updates         | Update plugins one by one → Refresh admin after each → Watch for errors/notices                                                                  |
-| 6        | Run Theme Update           | Update active theme → Verify child theme intact → Check front-end layout                                                                         |
-| 7        | Run Core Update            | Update WordPress core → Confirm database update (if prompted)                                                                                    |
-| 8        | Monitor Errors             | Check admin notices → Check browser console → Review server error logs                                                                           |
-| 9        | Test Site Functionality    | Load key pages → Test forms → Test login/logout → Test navigation                                                                                |
-| 10       | Validate Layout            | Check homepage → Check responsive views → Verify CSS/JS behavior                                                                                 |
-| 11       | Performance Spot Check     | Load pages → Observe load time → Confirm no obvious slowdown                                                                                     |
-| 12       | Resolve Issues (If Any)    | Identify conflicting update → Disable or rollback component → Re-test site                                                                       |
-| 13       | Clear Cache                | Clear plugin cache → Clear server cache → Purge CDN                                                                                              |
-| 14       | Final Verification         | Re-test critical pages → Confirm no errors → Confirm site availability                                                                           |
-| 15       | Confirm Success            | Ensure all updates applied → Confirm site stability → Mark task complete                                                                         |
-| 16       | Record Update Log          | Log updates performed → Note issues/fixes → Store confirmation                                                                                   |
+| **Step** | **Step Name**              | **Micro-Task Chain (Execution Order)**                                                                                       |
+| -------- | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 1        | [[Verify Backup]]          | Check latest backup exists → Confirm files + DB included → Verify timestamp is pre-update → Confirm restore option available |
+| 2        | Review Changelogs          | Open official release notes → Identify breaking changes → Note security fixes → Flag high-risk updates                       |
+| 3        | Confirm Compatibility      | Check WordPress version → Check PHP version → Review plugin/theme compatibility notes → Identify conflicts                   |
+| 4        | Prepare Update Environment | Disable auto-updates → Pause site changes → Ensure staging availability (if any)                                             |
+| 5        | Run Plugin Updates         | Update plugins one by one → Refresh admin after each → Watch for errors/notices                                              |
+| 6        | Run Theme Update           | Update active theme → Verify child theme intact → Check front-end layout                                                     |
+| 7        | Run Core Update            | Update WordPress core → Confirm database update (if prompted)                                                                |
+| 8        | Monitor Errors             | Check admin notices → Check browser console → Review server error logs                                                       |
+| 9        | Test Site Functionality    | Load key pages → Test forms → Test login/logout → Test navigation                                                            |
+| 10       | Validate Layout            | Check homepage → Check responsive views → Verify CSS/JS behavior                                                             |
+| 11       | Performance Spot Check     | Load pages → Observe load time → Confirm no obvious slowdown                                                                 |
+| 12       | Resolve Issues (If Any)    | Identify conflicting update → Disable or rollback component → Re-test site                                                   |
+| 13       | Clear Cache                | Clear plugin cache → Clear server cache → Purge CDN                                                                          |
+| 14       | Final Verification         | Re-test critical pages → Confirm no errors → Confirm site availability                                                       |
+| 15       | Confirm Success            | Ensure all updates applied → Confirm site stability → Mark task complete                                                     |
+| 16       | Record Update Log          | Log updates performed → Note issues/fixes → Store confirmation                                                               |
 
 ---
 
